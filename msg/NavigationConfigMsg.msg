@@ -7,3 +7,4 @@ float32 ang_accel
 float32 ang_vel
 float32 margin
 float32 carrot_dist
+float32 clearance_weight
